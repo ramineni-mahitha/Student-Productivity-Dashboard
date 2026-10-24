@@ -45,16 +45,16 @@ View productivity summaries and charts in one place.
 ![Dashboard](Dashboard.png)
 
 ### 2. Study Planner
-![Study Planner](screenshots/StudyPlanner.png)
+![Study Planner](StudyPlanner.png)
 
 ### 3. Task Tracker
-![Task Tracker](screenshots/TaskTracker.png)
+![Task Tracker](TaskTracker.png)
 
 ### 4. Coding Tracker
-![Coding Tracker](screenshots/CodingTracker.png)
+![Coding Tracker](CodingTracker.png)
 
 ### 5. Placement Tracker
-![Placement Tracker](screenshots/PlacementTracker.png)
+![Placement Tracker](PlacementTracker.png)
 
 ## What I Learned
 
