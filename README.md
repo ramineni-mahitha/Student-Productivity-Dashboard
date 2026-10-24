@@ -42,7 +42,7 @@ View productivity summaries and charts in one place.
 ## Project Screenshots
 
 ### 1. Main Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 2. Study Planner
 ![Study Planner](screenshots/StudyPlanner.png)
